@@ -1,4 +1,4 @@
-# burp-hashcat-maskprocessor
+# burp-intruder-hashcat-maskprocessor
 
 Burp Hashcat Maskprocessor Extension, inspired by hashcat maskprocessor https://github.com/hashcat/maskprocessor 
 
