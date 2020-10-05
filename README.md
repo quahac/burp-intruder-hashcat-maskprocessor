@@ -65,8 +65,8 @@ There are four commandline-parameters to configure four custom charsets.
 
 These commandline-parameters have four analogue shortcuts called -1, -2, -3 and -4. You can specify the chars directly on the command line.
 
-Password length increment --increment (Not yet)
-	--------------
+**Password length increment** (Not yet)
+--------------
 
 Example
 --------------
