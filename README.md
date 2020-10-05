@@ -65,19 +65,19 @@ There are four commandline-parameters to configure four custom charsets.
 
 These commandline-parameters have four analogue shortcuts called -1, -2, -3 and -4. You can specify the chars directly on the command line.
 
-Password length increment
---------------
+Password length increment (Not yet)
+	--------------
 
-A Mask attack is always specific to a password length. For example, if we use the mask ”?l?l?l?l?l?l?l?l” we can only crack a password of the length 8. But if the password we try to crack has the length 7 we will not find it. Thats why we have to repeat the attack several times, each time with one placeholder added to the mask. This is transparently automated by using the ”--increment” flag.
+	~~A Mask attack is always specific to a password length. For example, if we use the mask ”?l?l?l?l?l?l?l?l” we can only crack a password of the length 8. But if the password we try to crack has the length 7 we will not find it. Thats why we have to repeat the attack several times, each time with one placeholder added to the mask. This is transparently automated by using the ”--increment” flag.	~~
 
-- ?l
-- ?l?l
-- ?l?l?l
-- ?l?l?l?l
-- ?l?l?l?l?l
-- ?l?l?l?l?l?l
-- ?l?l?l?l?l?l?l
-- ?l?l?l?l?l?l?l?l
+	~~- ?l
+	~~- ?l?l
+	~~- ?l?l?l
+	~~- ?l?l?l?l
+	~~- ?l?l?l?l?l
+	~~- ?l?l?l?l?l?l
+	~~- ?l?l?l?l?l?l?l
+	~~- ?l?l?l?l?l?l?l?l	~~
 
 
 Example
